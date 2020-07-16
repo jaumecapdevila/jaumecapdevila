@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Jaume! 👋
 
-<!--
-**jaumecapdevila/jaumecapdevila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Jaume and I'm a Software Engineer from Barcelona currently enjoying my time at [Magento](https://magento.com/).
 
-Here are some ideas to get you started:
+### About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Dogs lover
+* Gamer
+* Amateur photographer
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://jaumecapdevila.net) <br>
+🐦 [Twitter](https://twitter.com/otherjaume) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/jaumecapdevila) <br>
