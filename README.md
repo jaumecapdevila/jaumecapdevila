@@ -1,6 +1,8 @@
 ### Hey, I'm Jaume! 👋
 
-Hi there! My name is Jaume and I'm a Software Engineer from Barcelona currently enjoying my time at [Magento](https://magento.com/).
+Hi there! My name is Jaume and I'm a Software Engineer from Barcelona.
+
+Currently enjoying my time at [Magento](https://magento.com/).
 
 ### About me 👨‍💻
 
@@ -8,7 +10,7 @@ Hi there! My name is Jaume and I'm a Software Engineer from Barcelona currently 
 * Gamer
 * Amateur photographer
 
-### Find me elsewhere 🌎
+### Find me elsewhere
 
 🚀 [Site](https://jaumecapdevila.net) <br>
 🐦 [Twitter](https://twitter.com/otherjaume) <br>
