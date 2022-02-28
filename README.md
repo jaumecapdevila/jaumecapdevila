@@ -8,7 +8,6 @@ Currently enjoying my time at [Magento](https://magento.com/).
 
 * Dogs lover
 * Gamer
-* Amateur photographer
 
 ### Find me elsewhere
 
